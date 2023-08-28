@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/](https://vk.com/pozer403" target="_blank">Миша</a> 
+<h1 align="center">Привет, меня зовут <a href="https://vk.com/pozer403" target="_blank">Миша</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И я фронтенд-разработчик</h3>
 <h2>Мои ключевые навыки: </h2>
